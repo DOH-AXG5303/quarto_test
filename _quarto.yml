@@ -1,0 +1,58 @@
+project:
+  type: book
+
+book:
+  title: "REDCap API Guide"
+  author: "REDCap Data Engineering Team"
+  date: "3/29/2024"
+  search: true
+  repo-url: https://github.com/DOH-EPI-Coders/REDCap_API_Guide_Quarto
+  chapters:
+    - index.qmd
+    - intro.qmd
+    - part: "Introduction to REDCap"
+      chapters:
+        - intro_overview.ipynb
+        - intro_building_blocks.ipynb
+        - intro_definitions.ipynb
+        - intro_data_structure.ipynb
+        - intro_packages.ipynb
+        - intro_tokens.ipynb
+        - intro_setup.ipynb
+    - part: "Exporting from REDCap"
+      chapters:
+        - exports_2_records.ipynb
+        - exports_3_reports.ipynb
+        - exports_4_files.ipynb
+        - exports_5_metadata.ipynb
+        - exports_6_fields.ipynb
+        - exports_7_forms.ipynb
+        - exports_8_instr_event_map.ipynb
+        - exports_9_users.ipynb
+        - exports_10_dags.ipynb
+        - exports_11_logging.ipynb
+        - exports_12_survey_link.ipynb
+        - exports_13_redcap_version.ipynb
+        - exports_14_appendix.ipynb
+    - part: "Importing to REDCap"
+      chapters:
+        - import_2_records.ipynb
+        - import_3_files.ipynb
+        - import_4_metadata.ipynb
+        - import_5_instr_event_map.ipynb
+        - import_6_users.ipynb
+        - import_7_dags.ipynb
+        - import_8_appendix.ipynb
+    - references.qmd
+
+bibliography: references.bib
+
+format:
+  html:
+    theme: cosmo
+  pdf:
+    documentclass: scrreprt
+
+
+
+

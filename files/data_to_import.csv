@@ -1,0 +1,21 @@
+record_id,redcap_event_name,redcap_repeat_instrument,redcap_repeat_instance,redcap_survey_identifier,demographics_timestamp,first_name,last_name,phone_num,zip_code,dob,age,ethnicity,race,gender,demographics_complete,symptoms_yesno,symptom_onset,symptoms_exp___1,symptoms_exp___2,symptoms_exp___3,symptoms_exp___4,symptoms_exp___5,symptoms_exp___6,symptoms_exp___7,symptoms_exp___8,symptoms_exp___9,symptoms_exp___10,symptoms_exp___11,symptom_notes,symptoms_complete,test_yesno,test_positive_yesno,test_positive_date,test_upload,prior_covid_yesno,prior_covid_date,test_information_complete,cc_name,cc_date,cc_phone,cc_email,close_contacts_complete,supervisor_name,supervisor_email,work_inperson_yesno,work_date,work_contagious,work_contagious_calc,work_information_complete
+3,personal_info_arm_1,,,,,John,Doe,(999) 999-9999,98105,12/5/2004,18,1,4,1,2,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+3,notifications_arm_1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Boss,,0,,0,,2
+3,case_intake_arm_1,,1,,,,,,,,,,,,,1,10/9/2023,1,1,0,0,0,0,1,0,0,0,0,,2,1,1,10/10/2023,test_api_export_image.png,0,,2,,,,,,,,,,,,
+3,notifications_arm_1,close_contacts,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Jane Doe,10/9/2023,(999) 999-9999,fake_email@gmail.com,2,,,,,,,
+3,notifications_arm_1,close_contacts,2,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Johnny Appleseed,10/8/2023,(999) 999-9999,fake_email@gmail.com,2,,,,,,,
+4,personal_info_arm_1,,,,,Jane,Doe,(999) 999-9999,98105,6/29/1995,28,0,5,0,2,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+4,notifications_arm_1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Boss,fake_email@gmail.com,1,10/10/2023,1,,2
+4,case_intake_arm_1,,1,,,,,,,,,,,,,1,10/11/2023,1,1,0,0,0,0,0,1,0,0,0,,2,1,1,10/12/2023,test_api_export_pdf.pdf,1,6/6/2021,2,,,,,,,,,,,,
+4,case_intake_arm_1,,2,,,,,,,,,,,,,1,6/5/2021,1,1,1,1,1,0,1,1,1,0,0,,2,1,1,6/7/2021,test_api_export_pdf.pdf,0,,2,,,,,,,,,,,,
+4,notifications_arm_1,close_contacts,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Janine Doe,10/10/2023,(999) 999-9999,fake_email@gmail.com,2,,,,,,,
+4,notifications_arm_1,close_contacts,2,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Johnny Appleseed,10/11/2023,(999) 999-9999,,0,,,,,,,
+5,personal_info_arm_1,,,,,Johnny,Appleseed,(999) 999-9999,98104,10/13/1989,34,2,3,1,2,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+5,notifications_arm_1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,,0,,0
+5,case_intake_arm_1,,1,,,,,,,,,,,,,1,10/8/2023,1,0,0,0,0,0,0,0,0,0,0,,2,0,,,,0,,2,,,,,,,,,,,,
+5,notifications_arm_1,close_contacts,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,John Smith,10/8/2023,(999) 999-9999,,2,,,,,,,
+6,personal_info_arm_1,,,,,Janine ,Appleseed,(999) 999-9999,98107,7/1/1998,25,0,5,0,2,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+6,notifications_arm_1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,,0,,2
+6,case_intake_arm_1,,1,,,,,,,,,,,,,1,10/2/2023,0,0,0,0,0,1,1,1,1,0,0,,2,1,1,10/3/2023,,0,,2,,,,,,,,,,,,
+6,notifications_arm_1,close_contacts,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Janine Doe,10/1/2023,(999) 999-9999,fake_email@gmail.com,2,,,,,,,
+6,notifications_arm_1,close_contacts,2,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Jamie Smith,9/30/2023,(999) 999-9999,fake_email@gmail.com,2,,,,,,,
