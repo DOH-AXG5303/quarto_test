@@ -6,7 +6,7 @@ book:
   author: "REDCap Data Engineering Team"
   date: "3/29/2024"
   search: true
-  repo-url: https://github.com/DOH-EPI-Coders/REDCap_API_Guide_Quarto
+  repo-url: https://doh-axg5303.github.io/quarto_test/
   chapters:
     - index.qmd
     - intro.qmd
