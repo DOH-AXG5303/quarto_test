@@ -24,7 +24,7 @@
     "href": "intro_overview.html",
     "title": "1  REDCap Overview",
     "section": "",
-    "text": "REDCap is a web-based application developed by Vanderbilt University to capture data for clinical research and create databases and projects. REDCap revolutionizes the survey development process and empowers users to rapidly create surveys tailored to their specific public health needs. REDCap allows the main administrator of a project to assign specific rights to individuals to access data and create reports. REDCap also provides clear audit trails for tracking the history of data entry and revision. For more information, see the Daily Dose article on REDCap here.",
+    "text": "REDCap (Research Electronic Data Capture) is a secure web application developed by Vanderbilt University in 2004, designed to facilitate data collection and management for research studies. It enables researchers to build and manage online surveys and databases quickly and efficiently, offering a robust set of features including customizable data collection instruments, SMS or email notifications, API import/export capability, audit trails, and user rights management. Initially created to support academic research, REDCap has since grown into a global consortium with over 5,000 institutional partners, supporting diverse projects in clinical, translational, and behavioral research. Its purpose is to streamline data management processes, ensuring data integrity, security, and compliance with regulatory standards",
     "crumbs": [
       "Introduction to REDCap",
       "<span class='chapter-number'>1</span>  <span class='chapter-title'>REDCap Overview</span>"
