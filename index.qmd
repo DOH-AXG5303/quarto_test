@@ -1,5 +1,20 @@
-# Preface {.unnumbered}
+# Welcome {.unnumbered}
 
-This is a Quarto book.
+This guide was developed by a epidemiologists at the Washington State Department-
+of Health. 
+In our roles, we were often tasked with developing of custom data pipelines
+between REDCap and other agency data systems. These pipelines requires custom
+transformation and an in-depth understanding of the data-types inside a REDCap project. 
+While REDCap is very widely used with ample training content on project design and 
+customization, there is not much content specific to informatics and technical
+administrators. Searching for answers have even led to answer like "please consult
+informatics specialist in your organization". So after lots of trial and error
+and consulting amongst ourselves, this guide is the result. We hope to clearly
+illustrate the relationship between the data structures within REDCap (question
+type, instruments, events etc.,)to the resulting data format when exported to 
+json or csv. Lastly, we provide samples of code in R and Python to effectively 
+interact with all of the REDCap features that the API provides. We hope it is
+helpful in your data processing and analytics journey.
 
-To learn more about Quarto books visit <https://quarto.org/docs/books>.
+
+
