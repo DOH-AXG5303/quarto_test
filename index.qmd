@@ -1,10 +1,10 @@
 # Welcome {.unnumbered}
 
-This guide was developed by a epidemiologists at the Washington State Department-
-of Health. 
-In our roles, we were often tasked with developing of custom data pipelines
-between REDCap and other agency data systems. These pipelines requires custom
-transformation and an in-depth understanding of the data-types inside a REDCap project. 
+This guide was developed by a team of epidemiologists at the Washington State
+Departmentof Health. In our roles, we were often tasked with developing of 
+custom data pipelines between REDCap and other agency data systems. These 
+pipelines requires custom transformation and an in-depth understanding of the 
+data-types inside a REDCap project. 
 While REDCap is very widely used with ample training content on project design and 
 customization, there is not much content specific to informatics and technical
 administrators. Searching for answers have even led to answer like "please consult
